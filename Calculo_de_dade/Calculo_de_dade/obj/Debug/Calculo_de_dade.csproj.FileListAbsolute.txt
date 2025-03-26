@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\bin\Debug\Calculo_de_dade.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\bin\Debug\Calculo_de_dade.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\bin\Debug\Calculo_de_dade.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\obj\Debug\Calculo_de_dade.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\obj\Debug\Calculo_de_dade.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\obj\Debug\Calculo_de_dade.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Calculo_de_dade\Calculo_de_dade\obj\Debug\Calculo_de_dade.pdb
