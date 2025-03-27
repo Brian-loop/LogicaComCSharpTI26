@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\bin\Debug\Pares_Enquanto.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\bin\Debug\Pares_Enquanto.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\bin\Debug\Pares_Enquanto.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\obj\Debug\Pares_Enquanto.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\obj\Debug\Pares_Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\obj\Debug\Pares_Enquanto.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Pares_Enquanto\Pares_Enquanto\obj\Debug\Pares_Enquanto.pdb
