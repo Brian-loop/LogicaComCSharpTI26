@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\bin\Debug\4)Aprovado_ou_reprovado.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\bin\Debug\4)Aprovado_ou_reprovado.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\bin\Debug\4)Aprovado_ou_reprovado.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\obj\Debug\4)Aprovado_ou_reprovado.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\obj\Debug\4)Aprovado_ou_reprovado.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\obj\Debug\4)Aprovado_ou_reprovado.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4)Aprovado_ou_reprovado\4)Aprovado_ou_reprovado\obj\Debug\4)Aprovado_ou_reprovado.pdb
