@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\2)numero_impares 1_a_100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C917FD4F-81D0-4974-A62E-2D2291E93AC2}|2)numero_impares 1_a_100\\2)numero_impares 1_a_100.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\2)numero_impares 1_a_100\\2)numero_impares 1_a_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C917FD4F-81D0-4974-A62E-2D2291E93AC2}|2)numero_impares 1_a_100\\2)numero_impares 1_a_100.csproj|solutionrelative:2)numero_impares 1_a_100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\2)numero_impares 1_a_100\\2)numero_impares 1_a_100\\Program.cs",
+              "RelativeDocumentMoniker": "2)numero_impares 1_a_100\\Program.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\2)numero_impares 1_a_100\\2)numero_impares 1_a_100\\Program.cs*",
+              "RelativeToolTip": "2)numero_impares 1_a_100\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:57:12.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
