@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\bin\Debug\jogo_ de _adivinhação.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\bin\Debug\jogo_ de _adivinhação.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\bin\Debug\jogo_ de _adivinhação.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\obj\Debug\jogo_ de _adivinhação.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\obj\Debug\jogo_ de _adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\obj\Debug\jogo_ de _adivinhação.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\jogo_ de _adivinhação\jogo_ de _adivinhação\obj\Debug\jogo_ de _adivinhação.pdb
