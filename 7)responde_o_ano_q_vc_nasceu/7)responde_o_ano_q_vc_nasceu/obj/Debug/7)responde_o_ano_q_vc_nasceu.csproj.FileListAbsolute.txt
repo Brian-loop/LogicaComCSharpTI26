@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\obj\Debug\7)responde_o_ano_q_vc_nasceu.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\obj\Debug\7)responde_o_ano_q_vc_nasceu.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\bin\Debug\7)responde_o_ano_q_vc_nasceu.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\bin\Debug\7)responde_o_ano_q_vc_nasceu.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\bin\Debug\7)responde_o_ano_q_vc_nasceu.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\obj\Debug\7)responde_o_ano_q_vc_nasceu.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\7)responde_o_ano_q_vc_nasceu\7)responde_o_ano_q_vc_nasceu\obj\Debug\7)responde_o_ano_q_vc_nasceu.pdb

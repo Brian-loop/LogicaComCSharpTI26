@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\7)responde_o_ano_q_vc_nasceu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1CE8A9-2137-4DB1-9B62-0CE9B0D99112}|7)responde_o_ano_q_vc_nasceu\\7)responde_o_ano_q_vc_nasceu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\7)responde_o_ano_q_vc_nasceu\\7)responde_o_ano_q_vc_nasceu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1CE8A9-2137-4DB1-9B62-0CE9B0D99112}|7)responde_o_ano_q_vc_nasceu\\7)responde_o_ano_q_vc_nasceu.csproj|solutionrelative:7)responde_o_ano_q_vc_nasceu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\7)responde_o_ano_q_vc_nasceu\\7)responde_o_ano_q_vc_nasceu\\Program.cs",
+              "RelativeDocumentMoniker": "7)responde_o_ano_q_vc_nasceu\\Program.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\7)responde_o_ano_q_vc_nasceu\\7)responde_o_ano_q_vc_nasceu\\Program.cs",
+              "RelativeToolTip": "7)responde_o_ano_q_vc_nasceu\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:22:07.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
