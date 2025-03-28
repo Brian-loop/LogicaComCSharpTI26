@@ -20,7 +20,6 @@ namespace _7_responde_o_ano_q_vc_nasceu
                 idade = int.Parse(Console.ReadLine());
                 anoNascimento = anoAtual - idade;
                 Console.WriteLine($"Ano de nascimento: {anoNascimento}");
-                break;
             }
             Console.WriteLine("Programa finalizado.");
         }
