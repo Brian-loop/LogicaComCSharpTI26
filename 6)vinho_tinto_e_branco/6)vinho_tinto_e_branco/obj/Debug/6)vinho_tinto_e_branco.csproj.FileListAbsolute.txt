@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\bin\Debug\6)vinho_tinto_e_branco.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\bin\Debug\6)vinho_tinto_e_branco.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\bin\Debug\6)vinho_tinto_e_branco.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\obj\Debug\6)vinho_tinto_e_branco.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\obj\Debug\6)vinho_tinto_e_branco.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\obj\Debug\6)vinho_tinto_e_branco.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\6)vinho_tinto_e_branco\6)vinho_tinto_e_branco\obj\Debug\6)vinho_tinto_e_branco.pdb
