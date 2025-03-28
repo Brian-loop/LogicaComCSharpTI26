@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\bin\Debug\1)3_numeros_determine_qual_o_maior.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\bin\Debug\1)3_numeros_determine_qual_o_maior.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\bin\Debug\1)3_numeros_determine_qual_o_maior.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\obj\Debug\1)3_numeros_determine_qual_o_maior.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\obj\Debug\1)3_numeros_determine_qual_o_maior.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\obj\Debug\1)3_numeros_determine_qual_o_maior.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\1)3_numeros_determine_qual_o_maior\1)3_numeros_determine_qual_o_maior\obj\Debug\1)3_numeros_determine_qual_o_maior.pdb

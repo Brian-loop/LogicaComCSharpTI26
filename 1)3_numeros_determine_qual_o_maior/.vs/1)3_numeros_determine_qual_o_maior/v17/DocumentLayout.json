@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\1)3_numeros_determine_qual_o_maior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2A10E6-08CF-477C-BC2A-DD9C347047D4}|1)3_numeros_determine_qual_o_maior\\1)3_numeros_determine_qual_o_maior.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\1)3_numeros_determine_qual_o_maior\\1)3_numeros_determine_qual_o_maior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2A10E6-08CF-477C-BC2A-DD9C347047D4}|1)3_numeros_determine_qual_o_maior\\1)3_numeros_determine_qual_o_maior.csproj|solutionrelative:1)3_numeros_determine_qual_o_maior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\1)3_numeros_determine_qual_o_maior\\1)3_numeros_determine_qual_o_maior\\Program.cs",
+              "RelativeDocumentMoniker": "1)3_numeros_determine_qual_o_maior\\Program.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\1)3_numeros_determine_qual_o_maior\\1)3_numeros_determine_qual_o_maior\\Program.cs",
+              "RelativeToolTip": "1)3_numeros_determine_qual_o_maior\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:39:38.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
