@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\2-salario_minimo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F99DDC-89E8-4C59-A9F7-0DC864DE7789}|2-salario_minimo\\2-salario_minimo.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\2-salario_minimo\\2-salario_minimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F99DDC-89E8-4C59-A9F7-0DC864DE7789}|2-salario_minimo\\2-salario_minimo.csproj|solutionrelative:2-salario_minimo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\2-salario_minimo\\2-salario_minimo\\Program.cs",
+              "RelativeDocumentMoniker": "2-salario_minimo\\Program.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\2-salario_minimo\\2-salario_minimo\\Program.cs*",
+              "RelativeToolTip": "2-salario_minimo\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:26:31.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
