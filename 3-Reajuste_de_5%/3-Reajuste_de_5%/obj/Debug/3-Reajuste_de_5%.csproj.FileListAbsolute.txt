@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\bin\Debug\3-Reajuste_de_5%.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\bin\Debug\3-Reajuste_de_5%.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\bin\Debug\3-Reajuste_de_5%.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\obj\Debug\3-Reajuste_de_5%.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\obj\Debug\3-Reajuste_de_5%.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\obj\Debug\3-Reajuste_de_5%.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\3-Reajuste_de_5%\3-Reajuste_de_5%\obj\Debug\3-Reajuste_de_5%.pdb
