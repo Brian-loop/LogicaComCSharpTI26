@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\bin\Debug\4-verdadeiro_e_falso.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\bin\Debug\4-verdadeiro_e_falso.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\bin\Debug\4-verdadeiro_e_falso.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\obj\Debug\4-verdadeiro_e_falso.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\obj\Debug\4-verdadeiro_e_falso.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\obj\Debug\4-verdadeiro_e_falso.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\4-verdadeiro_e_falso\4-verdadeiro_e_falso\obj\Debug\4-verdadeiro_e_falso.pdb
