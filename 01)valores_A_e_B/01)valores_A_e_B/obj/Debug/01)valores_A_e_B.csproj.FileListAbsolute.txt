@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\bin\Debug\01)valores_A_e_B.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\bin\Debug\01)valores_A_e_B.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\bin\Debug\01)valores_A_e_B.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\obj\Debug\01)valores_A_e_B.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\obj\Debug\01)valores_A_e_B.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\obj\Debug\01)valores_A_e_B.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\01)valores_A_e_B\01)valores_A_e_B\obj\Debug\01)valores_A_e_B.pdb
