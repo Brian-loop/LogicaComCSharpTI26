@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\bin\Debug\5-peso_altura_IMC.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\bin\Debug\5-peso_altura_IMC.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\bin\Debug\5-peso_altura_IMC.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\obj\Debug\5-peso_altura_IMC.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\obj\Debug\5-peso_altura_IMC.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\obj\Debug\5-peso_altura_IMC.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\5-peso_altura_IMC\5-peso_altura_IMC\obj\Debug\5-peso_altura_IMC.pdb
