@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\bin\Debug\8-Contagem_da_sua_idade.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\bin\Debug\8-Contagem_da_sua_idade.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\bin\Debug\8-Contagem_da_sua_idade.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\obj\Debug\8-Contagem_da_sua_idade.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\obj\Debug\8-Contagem_da_sua_idade.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\obj\Debug\8-Contagem_da_sua_idade.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\8-Contagem_da_sua_idade\8-Contagem_da_sua_idade\obj\Debug\8-Contagem_da_sua_idade.pdb
