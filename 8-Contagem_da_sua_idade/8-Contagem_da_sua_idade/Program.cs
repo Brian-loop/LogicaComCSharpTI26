@@ -15,25 +15,40 @@ namespace _8_Contagem_da_sua_idade
             //(Ex: 5 anos, 2 meses e 15 dias de vida)
 
             // Solicita o ano de nascimento da pessoa
-            Console.Write("Digite o ano de nascimento: ");
+            Console.Write("Digite o ano do seu nascimento: ");
             int anoNascimento = int.Parse(Console.ReadLine());
 
-            // Obtém o ano atual
-            int anoAtual = DateTime.Now.Year;
+            Console.Write("Digite o mês do seu nascimento (1-12): ");
+            int mesNascimento = int.Parse(Console.ReadLine());
 
-            // Calcula a idade em anos
-            int anosVividos = anoAtual - anoNascimento;
+            Console.Write("Digite o dia do seu nascimento: ");
+            int diaNascimento = int.Parse(Console.ReadLine());
 
-            // Calcula os meses e dias
-            int mesesVividos = anosVividos + 12; // Cada ano tem 12 meses
-            int diasVividos = anosVividos - 365; // Cada ano tem 365 dias
+            // Criar o objeto de data a partir das entradas
+            DateTime dataNascimento = new DateTime(anoNascimento, mesNascimento, diaNascimento);
 
-            // Calcula os meses extras, além dos anos completos
-            int mesesRestantes = mesesVividos % 12; // Restante dos meses além dos anos completos
-            diasVividos %= 365; // Restante dos dias além dos anos completos
+            // Calcular a idade
+            DateTime hoje = DateTime.Today;
+            int idadeAnos = hoje.Year - dataNascimento.Year;
+            int idadeMeses = hoje.Month - dataNascimento.Month;
+            int idadeDias = hoje.Day - dataNascimento.Day;
 
-            // Exibe a quantidade de anos, meses e dias vividos
-            Console.WriteLine($"A pessoa viveu {anosVividos} anos, {mesesRestantes} meses e {diasVividos} dias.");
+            // Ajustar se o mês ou o dia for negativo
+            if (idadeMeses < 0)
+            {
+                idadeAnos--;
+                idadeMeses += 12;
+            }
+
+            if (idadeDias < 0)
+            {
+                idadeMeses--;
+                // Ajusta os dias considerando um mês médio de 30 dias
+                idadeDias += DateTime.DaysInMonth(hoje.Year, hoje.Month - 1);
+            }
+
+            // Exibir o resultado
+            Console.WriteLine($"Você tem {idadeAnos} anos, {idadeMeses} meses e {idadeDias} dias.");
         }
     }
 }
