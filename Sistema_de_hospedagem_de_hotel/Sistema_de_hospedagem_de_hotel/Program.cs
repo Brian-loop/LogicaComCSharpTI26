@@ -11,50 +11,84 @@ namespace Sistema_de_hospedagem_de_hotel
     {
         static void Main(string[] args)
         {
-            //Crie um sistema de hospedagem onde o cliente pode escolher entre três tipos de acomodações: Suíte de Luxo, Suíte Comum e Suíte Básica.
-            //O sistema deve ser capaz de receber a escolha do cliente,validar a opção selecionada e calcular o valor total da estadia com base na opção escolhida e no número de noites.
-            //Cálculo do Valor da Estadia: O valor da diária pode ser definido como:
-            ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-            //Suíte de Luxo: R$ 500,00 por noite.
-            //Suíte Comum: R$ 200,00 por noite.
-            //Suíte Básica: R$ 100,00 por noite.
-            //O cliente deverá informar o número de noites que ficará hospedado.
-            //(o programa nao deve fechar caso o cliente escolha uma opção que nao exista)
-            ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+            // Exibe boas-vindas e chama a função principal
+            Console.WriteLine("Bem-vindo ao sistema de hospedagem!");
 
-            Console.Title = "Hotel";
-            int noites;
-            double suiteLuxo = 500.00, suiteComum = 200.00, suiteBasica = 100.00;             
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("--ESCOLHA O QUARTO QUEIRA SE HOSPEDAR--");
-            Console.WriteLine("Tabela de preços:");
-            Console.Write("■ Suite de Luxo = ");
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("R$500.00");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.Write("■ Suite Comum = ");
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("R$200.00");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.Write("■ Suite Básica = ");
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("R$100.00");
-            while (true) {
-            Console.ResetColor();
-            Console.WriteLine("Digite L para a Suíte de Luxo");
-            Console.WriteLine("Digite C para a Suíte Comum");
-            Console.WriteLine("Digite B para a Suíte Basica:");
-                string tipoSuite;
-                tipoSuite = Console.ReadLine();
-                if (tipoSuite == "L") {                
-                    Console.WriteLine("Quantas noites deseja se hospedar");
-                noites = int.Parse(Console.ReadLine()
-                    double total = noites * suiteLuxo);
-                Console.Write(noites + "noite(s) darão" + total.T)               
+            // Obtém a escolha do cliente
+            string opcaoEscolhida = ObterOpcaoCliente();
 
-                
-                else {
-                    if (tipoSuite == "B")
+            // Obtém o número de noites
+            int numeroNoites = ObterNumeroNoites();
+
+            // Calcula o valor total da estadia
+            double valorTotal = CalcularValor(opcaoEscolhida, numeroNoites);
+
+            // Exibe o valor total
+            Console.WriteLine($"O valor total da sua estadia é: R$ {valorTotal:F2}");
+        }
+
+        // Função para exibir o menu e obter a escolha do cliente
+        static string ObterOpcaoCliente()
+        {
+            while (true)
+            {
+                Console.WriteLine("Escolha o tipo de acomodação:");
+                Console.WriteLine("1 - Suíte de Luxo (R$ 500,00 por noite)");
+                Console.WriteLine("2 - Suíte Comum (R$ 200,00 por noite)");
+                Console.WriteLine("3 - Suíte Básica (R$ 100,00 por noite)");
+
+                string opcao = Console.ReadLine();
+                if (opcao == "1" || opcao == "2" || opcao == "3")
+                {
+                    return opcao;
+                }
+                else
+                {
+                    Console.WriteLine("Opção inválida! Por favor, escolha uma das opções válidas.");
+                }
+            }
+        }
+
+        // Função para obter o número de noites
+        static int ObterNumeroNoites()
+        {
+            while (true)
+            {
+                Console.Write("Quantas noites você deseja ficar hospedado? ");
+                if (int.TryParse(Console.ReadLine(), out int noites) && noites > 0)
+                {
+                    return noites;
+                }
+                else
+                {
+                    Console.WriteLine("Por favor, insira um número válido de noites (maior que zero).");
+                }
+            }
+        }
+
+        // Função para calcular o valor total da estadia com base na opção e nas noites
+        static double CalcularValor(string estadia, int noites)
+        {
+            double valorDiaria = 0;
+
+            switch (estadia)
+            {
+                case "1": // Suíte de Luxo
+                    valorDiaria = 500.00;
+                    break;
+                case "2": // Suíte Comum
+                    valorDiaria = 200.00;
+                    break;
+                case "3": // Suíte Básica
+                    valorDiaria = 100.00;
+                    break;
+            }
+
+            return valorDiaria * noites;
         }
     }
 }
+
+
+
+
