@@ -1,0 +1,7 @@
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\bin\Debug\Cadastro_de_album.exe.config
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\bin\Debug\Cadastro_de_album.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\bin\Debug\Cadastro_de_album.pdb
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\obj\Debug\Cadastro_de_album.csproj.AssemblyReference.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\obj\Debug\Cadastro_de_album.csproj.CoreCompileInputs.cache
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\obj\Debug\Cadastro_de_album.exe
+C:\Users\brian.vcruz\source\repos\LogicaComCsharpTI26\LogicaComCSharp\Cadastro_de_album\Cadastro_de_album\obj\Debug\Cadastro_de_album.pdb
