@@ -44,39 +44,20 @@ namespace Menu
                 {
                     // case = caso
                     case 1:
-                        CadastrarCliente();   //função escondida , agora ta ativada
-                        Console.WriteLine("\nCadastro de Cliente");
-                        Console.Write("Dígite o nome do cliente: ");
-                        string nome = Console.ReadLine();
-                        Console.WriteLine($"Cliente {nome} cadastrado com sucesso!");  // colocamos o "$" para podermos colocar a variante "nome" no texto.
+                        CadastrarCliente.CadCliente();   //função escondida , agora ta ativada
+                       
                         break;  //break = pare 
                     case 2:
-                        Cadastrofornecedor();
-                        Console.WriteLine("\nCadastro de Fornecedor");
-                        Console.Write("Dígite o código do Fornecedor: ");
-                        int fornecedor = int.Parse(Console.ReadLine());
-                        Console.WriteLine($"Fornecedor {fornecedor} cadastrado com sucesso!");
+                        Cadastrofornecedor.Cadfornecedor();                        
                         break;
                     case 3:
-                        CadastrarFuncionario();
-                        Console.WriteLine("\nCadastro do Funcionário");
-                        Console.Write("Dígite o nome do Funcionário: ");
-                        string funcionario = Console.ReadLine();
-                        Console.WriteLine($"Fucionário {funcionario} cadastrado com sucesso!");
+                        CadastrarFuncionario.CadFuncionario();                        
                         break;
                     case 4:
-                        Produto();
-                        Console.WriteLine("\nCadastro do Produto");
-                        Console.Write("Dígite o código do Produto: ");
-                        int produto = int.Parse(Console.ReadLine());
-                        Console.WriteLine($"Produto {produto} cadastrado com sucesso!");
+                        Produto.Produt();                        
                         break;
                     case 5:
-                        Pedido();
-                        Console.WriteLine("\nCadastro do Pedido");
-                        Console.Write("Dígite o código do Pedido: ");
-                        int pedido = int.Parse(Console.ReadLine());
-                        Console.WriteLine($"Pedido {pedido} cadastrado com sucesso!");
+                        Pedido.Pedid();                        
                         break;
                     case 0:
                         Console.ForegroundColor = ConsoleColor.Red;
@@ -93,48 +74,6 @@ namespace Menu
                     Console.ReadKey(); // ReadKey = absorve a tecla escolhida.
                 }
             }// fim da chave = "while (opcao != 0){   "
-        }
-
-
-
-
-
-
-    //agora realizaremos uma nova função 
-    static void CadastrarCliente()
-        {
-            Console.WriteLine("\nCadastro de Cliente");
-            Console.Write("Dígite o nome do cliente: ");
-            string nome = Console.ReadLine();
-            Console.WriteLine($"Cliente {nome} cadastrado com sucesso!");
-        }
-    static void Cadastrofornecedor()
-        {
-            Console.WriteLine("\nCadastro de Fornecedor");
-            Console.Write("Dígite o código do Fornecedor: ");
-            int fornecedor = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Fornecedor {fornecedor} cadastrado com sucesso!");
-        }
-    static void CadastrarFuncionario()
-        {
-            Console.WriteLine("\nCadastro do Funcionário");
-            Console.Write("Dígite o nome do Funcionário: ");
-            string funcionario = Console.ReadLine();
-            Console.WriteLine($"Fucionário {funcionario} cadastrado com sucesso!");
-        }
-        static void Produto()
-        {
-            Console.WriteLine("\nCadastro do Produto");
-            Console.Write("Dígite o código do Produto: ");
-            int produto = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Produto {produto} cadastrado com sucesso!");
-        }
-        static void Pedido()
-        {
-            Console.WriteLine("\nCadastro do Pedido");
-            Console.Write("Dígite o código do Pedido: ");
-            int pedido = int.Parse(Console.ReadLine());
-            Console.WriteLine($"Pedido {pedido} cadastrado com sucesso!");
-        }
+        }                             
     }
 }

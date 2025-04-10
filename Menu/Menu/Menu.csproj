@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CadastrarCliente.cs" />
+    <Compile Include="CadastrarFuncionario.cs" />
+    <Compile Include="Cadastrofornecedor.cs" />
+    <Compile Include="Pedido.cs" />
+    <Compile Include="Produto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

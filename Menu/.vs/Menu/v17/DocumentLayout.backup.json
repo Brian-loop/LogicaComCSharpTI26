@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\menu\\menu\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|solutionrelative:menu\\cadastrofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\menu\\menu\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|solutionrelative:menu\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\menu\\menu\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|solutionrelative:menu\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\menu\\menu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|solutionrelative:menu\\cadastrarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\menu\\menu\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAAF789-7FCC-401F-9697-276AA2F7837E}|Menu\\Menu.csproj|solutionrelative:menu\\cadastrarfuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Program.cs",
               "RelativeDocumentMoniker": "Menu\\Program.cs",
-              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Program.cs*",
-              "RelativeToolTip": "Menu\\Program.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAvwGEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Program.cs",
+              "RelativeToolTip": "Menu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T11:54:53.062Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastrofornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Cadastrofornecedor.cs",
+              "RelativeDocumentMoniker": "Menu\\Cadastrofornecedor.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Cadastrofornecedor.cs",
+              "RelativeToolTip": "Menu\\Cadastrofornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:54:31.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarFuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\CadastrarFuncionario.cs",
+              "RelativeDocumentMoniker": "Menu\\CadastrarFuncionario.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\CadastrarFuncionario.cs",
+              "RelativeToolTip": "Menu\\CadastrarFuncionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:56:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\CadastrarCliente.cs",
+              "RelativeDocumentMoniker": "Menu\\CadastrarCliente.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\CadastrarCliente.cs",
+              "RelativeToolTip": "Menu\\CadastrarCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:00:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Produto.cs",
+              "RelativeDocumentMoniker": "Menu\\Produto.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Produto.cs",
+              "RelativeToolTip": "Menu\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:59:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Pedido.cs",
+              "RelativeDocumentMoniker": "Menu\\Pedido.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Menu\\Menu\\Pedido.cs",
+              "RelativeToolTip": "Menu\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:00:09.951Z",
               "EditorCaption": ""
             }
           ]
