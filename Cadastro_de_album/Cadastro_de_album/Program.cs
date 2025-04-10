@@ -29,7 +29,7 @@ namespace Cadastro_de_album
                 Console.WriteLine("SAIR");
                 Console.ResetColor();
                 Console.Write("Qual é sua opção: ");
-                while (!int.TryParse(Console.ReadLine(), out opcao || opcao < 0 || opcao > 3)
+                while (!int.TryParse(Console.ReadLine(), out opcao) || opcao < 0 || opcao > 3)
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine("Opção não correspondente, dígite novamente !");
@@ -39,7 +39,7 @@ namespace Cadastro_de_album
                 {
 
                     case 1 :
-                        
+                        CadastroAlbum.CadAlbum();
                         break;
                     case 2 :
 
