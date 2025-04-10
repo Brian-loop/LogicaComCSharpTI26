@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Cadastro_de_album\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50E3FEFA-FF5E-41D1-B341-48EC0E9FF247}|Cadastro_de_album\\Cadastro_de_album.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\cadastro_de_album\\cadastro_de_album\\cadastroalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E3FEFA-FF5E-41D1-B341-48EC0E9FF247}|Cadastro_de_album\\Cadastro_de_album.csproj|solutionrelative:cadastro_de_album\\cadastroalbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50E3FEFA-FF5E-41D1-B341-48EC0E9FF247}|Cadastro_de_album\\Cadastro_de_album.csproj|c:\\users\\brian.vcruz\\source\\repos\\logicacomcsharpti26\\logicacomcsharp\\cadastro_de_album\\cadastro_de_album\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50E3FEFA-FF5E-41D1-B341-48EC0E9FF247}|Cadastro_de_album\\Cadastro_de_album.csproj|solutionrelative:cadastro_de_album\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Cadastro_de_album\\Cadastro_de_album\\Program.cs",
               "RelativeDocumentMoniker": "Cadastro_de_album\\Program.cs",
               "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Cadastro_de_album\\Cadastro_de_album\\Program.cs*",
               "RelativeToolTip": "Cadastro_de_album\\Program.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T14:32:56.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroAlbum.cs",
+              "DocumentMoniker": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Cadastro_de_album\\Cadastro_de_album\\CadastroAlbum.cs",
+              "RelativeDocumentMoniker": "Cadastro_de_album\\CadastroAlbum.cs",
+              "ToolTip": "C:\\Users\\brian.vcruz\\source\\repos\\LogicaComCsharpTI26\\LogicaComCSharp\\Cadastro_de_album\\Cadastro_de_album\\CadastroAlbum.cs*",
+              "RelativeToolTip": "Cadastro_de_album\\CadastroAlbum.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:12:09.07Z",
               "EditorCaption": ""
             }
           ]
